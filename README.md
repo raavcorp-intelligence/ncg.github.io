@@ -15,3 +15,21 @@ Here is an example of the data being inputed:
 # What are you doing today?
 # It would be conjoined together
 ```
+The nerual network will work in a way sort of like this:
+1. It will read the first line, it will make correlations from the first line to the second line.
+2. It will move one line down, instead of writing to the same weights file it will make a new one and have at as the reciving end.
+   so it will be able to answer it based off of the previous inputs. 
+3. Repeat for the continuation of the document.
+   and instead of doing letters like normal text gerneration programs use, we will use words which are a bit harder to train but we wont deal      with all that wacky `froem` misinterpretations.
+
+It will go like this in simplistic form:
+```
+repeat x for(lengthoftextfile):
+  user1input = anaylze(textfile(x))
+  secondline = x + 1
+  user2input = anaylze(textfile(secondline))
+  finaldeduction = compare(user1input, user2input)
+```
+
+We currently don't have any robust framework.
+We are still gathering a team to work on this.
