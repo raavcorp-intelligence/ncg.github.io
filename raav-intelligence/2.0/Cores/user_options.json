@@ -1,0 +1,10 @@
+{
+    "amountofoptions": "1",
+    "1": "False",
+    "_comment": "The one is for the talk or text function False for text and True for voice",
+    "2": "/Users/ryanvogel/R.A.A.V/Builds/2.0/Cores",
+    "_comment2": " That is for the filelocation",
+    "3": "True",
+    "_comment3": "That is for if the program was in offlinemode and below is time last checked for offline mode",
+    "4": 2050
+}

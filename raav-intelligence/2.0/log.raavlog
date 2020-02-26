@@ -1,0 +1,346 @@
+>>> Command: Checking memory for b'           Hello my name is ryan' at 2019-11-21 22:43:53.337881
+>>> Command: Checking memory for b'           Hello my name is ryan' at 2019-11-21 22:44:50.550663
+>>> Command: Checking memory for b'           Hello my name is ryan' at 2019-11-21 22:49:14.179824
+>>> Command: adding b'           Hello my name is ryan', b'           Hello my name is ryan' to memory at 2019-11-21 22:49:14.180450
+>>> Command: Checking memory for result at 2019-11-21 23:02:35.460282
+>>> Command: adding result, result to memory at 2019-11-21 23:02:35.461865
+>>> Command: Checking memory for result at 2019-11-21 23:04:22.208202
+>>> Command: adding result, result to memory at 2019-11-21 23:04:22.209402
+>>> Command: Checking memory for result at 2019-11-21 23:04:40.356132
+>>> Command: adding result, hello world to memory at 2019-11-21 23:04:40.357345
+>>> Command: Checking memory for result at 2019-11-21 23:13:35.925401
+>>> Command: adding result, test123 to memory at 2019-11-21 23:13:35.927254
+>>> Command: Checking memory for result at 2019-11-21 23:13:50.066882
+>>> Command: adding result, test123 to memory at 2019-11-21 23:13:50.072062
+>>> Command: Checking memory for result at 2019-11-21 23:15:42.342657
+>>> Command: adding result, test123 to memory at 2019-11-21 23:15:42.351241
+>>> Command: Checking memory for result at 2019-11-21 23:16:44.034639
+>>> Command: adding result, test123 to memory at 2019-11-21 23:17:00.067505
+>>> Command: Checking memory for result at 2019-11-21 23:19:07.285288
+>>> Command: adding result, test123 to memory at 2019-11-21 23:19:07.286112
+>>> Command: Checking memory for ads at 2019-11-21 23:27:23.255211
+>>> Command: adding ads, john to memory at 2019-11-21 23:27:23.256738
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:27:39.501829
+>>> Command: adding adsdfs, johsasffn to memory at 2019-11-21 23:27:39.504063
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:28:01.723704
+>>> Command: adding adsdfs, johsasffn to memory at 2019-11-21 23:28:35.441216
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:32:27.921441
+>>> Command: adding adsdfs, johsasffn to memory at 2019-11-21 23:32:27.924029
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:32:48.300029
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:33:59.468809
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:37:07.386724
+>>> Command: Checking memory for adsdfs at 2019-11-21 23:38:19.996229
+>>> Command: adding adsdfs, johsasffn to memory at 2019-11-21 23:38:19.998141
+>>> Command: Checking memory for john at 2019-11-21 23:39:06.636746
+>>> Command: Checking memory for q1 at 2019-11-22 07:45:58.470639
+>>> Command: adding q1, ans1 to memory at 2019-11-22 07:45:58.473198
+>>> Command: Checking memory for q2 at 2019-11-22 07:45:58.476156
+>>> Command: adding q2, ans2 to memory at 2019-11-22 07:45:58.476668
+>>> Command: Checking memory for q3 at 2019-11-22 07:45:58.477216
+>>> Command: adding q3, ans3 to memory at 2019-11-22 07:45:58.477586
+>>> Command: Checking memory for q4 at 2019-11-22 07:45:58.478076
+>>> Command: adding q4, ans4 to memory at 2019-11-22 07:45:58.478422
+>>> Command: Checking memory for q5 at 2019-11-22 07:45:58.478901
+>>> Command: adding q5, ans5 to memory at 2019-11-22 07:45:58.479255
+>>> Command: Checking memory for q6 at 2019-11-22 07:45:58.479733
+>>> Command: adding q6, ans6 to memory at 2019-11-22 07:45:58.480072
+>>> Command: Checking memory for q7 at 2019-11-22 07:45:58.480844
+>>> Command: adding q7, ans7 to memory at 2019-11-22 07:45:58.481432
+>>> Command: Checking memory for q1 at 2019-11-22 08:16:13.109847
+>>> Command: adding q1, ans1 to memory at 2019-11-22 08:16:17.350297
+>>> Command: Checking memory for q2 at 2019-11-22 08:16:26.114443
+>>> Command: adding q2, ans2 to memory at 2019-11-22 08:16:30.510604
+>>> Command: Checking memory for q3 at 2019-11-22 08:16:38.557380
+>>> Command: adding q3, ans3 to memory at 2019-11-22 08:16:43.200661
+>>> Command: Checking memory for q4 at 2019-11-22 08:16:52.781545
+>>> Command: adding q4, ans4 to memory at 2019-11-22 08:16:56.963608
+>>> Command: Checking memory for q5 at 2019-11-22 08:17:05.148824
+>>> Command: adding q5, ans5 to memory at 2019-11-22 08:17:09.195122
+>>> Command: Checking memory for q6 at 2019-11-22 08:17:18.419682
+>>> Command: adding q6, ans6 to memory at 2019-11-22 08:17:22.607374
+>>> Command: Checking memory for q7 at 2019-11-22 08:17:30.963013
+>>> Command: adding q7, ans7 to memory at 2019-11-22 08:17:35.165274
+>>> Command: Checking memory for q1 at 2019-11-22 09:32:27.478657
+>>> Command: adding q1, ans1 to memory at 2019-11-22 09:32:31.903506
+>>> Command: Checking memory for q2 at 2019-11-22 09:32:41.831341
+>>> Command: adding q2, ans2 to memory at 2019-11-22 09:32:46.200283
+>>> Command: Checking memory for q3 at 2019-11-22 09:32:55.293908
+>>> Command: adding q3, ans3 to memory at 2019-11-22 09:33:01.001858
+>>> Command: Checking memory for q1 at 2019-11-22 11:06:34.900433
+>>> Command: adding q1, ans1 to memory at 2019-11-22 11:06:34.901605
+>>> Command: Checking memory for q2 at 2019-11-22 11:06:34.902273
+>>> Command: adding q2, ans2 to memory at 2019-11-22 11:06:34.902905
+>>> Command: Checking memory for q3 at 2019-11-22 11:06:34.903945
+>>> Command: adding q3, ans3 to memory at 2019-11-22 11:06:34.904420
+>>> Command: Checking memory for q4 at 2019-11-22 11:06:34.905085
+>>> Command: adding q4, ans4 to memory at 2019-11-22 11:06:34.905496
+>>> Command: Checking memory for q5 at 2019-11-22 11:06:34.906571
+>>> Command: adding q5, ans5 to memory at 2019-11-22 11:06:34.907762
+>>> Command: Checking memory for q6 at 2019-11-22 11:06:34.908450
+>>> Command: adding q6, ans6 to memory at 2019-11-22 11:06:34.908980
+>>> Command: Checking memory for q7 at 2019-11-22 11:06:34.909652
+>>> Command: adding q7, ans7 to memory at 2019-11-22 11:06:34.910146
+>>> Command: Checking memory for q1 at 2019-11-22 11:06:58.245930
+>>> Command: adding q1, ans1 to memory at 2019-11-22 11:06:58.247543
+>>> Command: Checking memory for q2 at 2019-11-22 11:06:58.248907
+>>> Command: adding q2, ans2 to memory at 2019-11-22 11:06:58.249733
+>>> Command: Checking memory for q3 at 2019-11-22 11:06:58.250690
+>>> Command: adding q3, ans3 to memory at 2019-11-22 11:06:58.253194
+>>> Command: Checking memory for q4 at 2019-11-22 11:06:58.254054
+>>> Command: adding q4, ans4 to memory at 2019-11-22 11:06:58.254664
+>>> Command: Checking memory for q5 at 2019-11-22 11:06:58.255394
+>>> Command: adding q5, ans5 to memory at 2019-11-22 11:06:58.255934
+>>> Command: Checking memory for q6 at 2019-11-22 11:06:58.256818
+>>> Command: adding q6, ans6 to memory at 2019-11-22 11:06:58.257480
+>>> Command: Checking memory for q7 at 2019-11-22 11:06:58.258235
+>>> Command: adding q7, ans7 to memory at 2019-11-22 11:06:58.258860
+>>> Command: Checking memory for q1 at 2019-11-22 14:40:34.900856
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:40:34.902533
+>>> Command: Checking memory for q2 at 2019-11-22 14:40:34.903449
+>>> Command: adding q2, ans2 to memory at 2019-11-22 14:40:34.904080
+>>> Command: Checking memory for q3 at 2019-11-22 14:40:34.904696
+>>> Command: adding q3, ans3 to memory at 2019-11-22 14:40:34.905129
+>>> Command: Checking memory for q4 at 2019-11-22 14:40:34.905830
+>>> Command: adding q4, ans4 to memory at 2019-11-22 14:40:34.906359
+>>> Command: Checking memory for q5 at 2019-11-22 14:40:34.906969
+>>> Command: adding q5, ans5 to memory at 2019-11-22 14:40:34.907467
+>>> Command: Checking memory for q6 at 2019-11-22 14:40:34.907971
+>>> Command: adding q6, ans6 to memory at 2019-11-22 14:40:34.908438
+>>> Command: Checking memory for q7 at 2019-11-22 14:40:34.908980
+>>> Command: adding q7, ans7 to memory at 2019-11-22 14:40:34.909549
+>>> Command: Checking memory for q1 at 2019-11-22 14:42:07.870879
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:42:07.873321
+>>> Command: Checking memory for q2 at 2019-11-22 14:42:07.875216
+>>> Command: adding q2, ans2 to memory at 2019-11-22 14:42:07.876202
+>>> Command: Checking memory for q3 at 2019-11-22 14:42:07.877049
+>>> Command: adding q3, ans3 to memory at 2019-11-22 14:42:07.877925
+>>> Command: Checking memory for q4 at 2019-11-22 14:42:07.878668
+>>> Command: adding q4, ans4 to memory at 2019-11-22 14:42:07.879727
+>>> Command: Checking memory for q5 at 2019-11-22 14:42:07.880488
+>>> Command: adding q5, ans5 to memory at 2019-11-22 14:42:07.881734
+>>> Command: Checking memory for q6 at 2019-11-22 14:42:07.882625
+>>> Command: adding q6, ans6 to memory at 2019-11-22 14:42:07.884100
+>>> Command: Checking memory for q7 at 2019-11-22 14:42:07.886210
+>>> Command: adding q7, ans7 to memory at 2019-11-22 14:42:07.887314
+>>> Command: Checking memory for q1 at 2019-11-22 14:43:58.509564
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:43:58.510957
+>>> Command: Checking memory for q2 at 2019-11-22 14:43:58.511727
+>>> Command: adding q2, ans2 to memory at 2019-11-22 14:43:58.512238
+>>> Command: Checking memory for q3 at 2019-11-22 14:43:58.512898
+>>> Command: adding q3, ans3 to memory at 2019-11-22 14:43:58.513367
+>>> Command: Checking memory for q4 at 2019-11-22 14:43:58.514062
+>>> Command: adding q4, ans4 to memory at 2019-11-22 14:43:58.514483
+>>> Command: Checking memory for q5 at 2019-11-22 14:43:58.515081
+>>> Command: adding q5, ans5 to memory at 2019-11-22 14:43:58.515603
+>>> Command: Checking memory for q6 at 2019-11-22 14:43:58.516271
+>>> Command: adding q6, ans6 to memory at 2019-11-22 14:43:58.516822
+>>> Command: Checking memory for q7 at 2019-11-22 14:43:58.517763
+>>> Command: adding q7, ans7 to memory at 2019-11-22 14:43:58.518358
+>>> Command: Checking memory for q1 at 2019-11-22 14:44:05.191216
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:44:05.192295
+>>> Command: Checking memory for q2 at 2019-11-22 14:44:05.193252
+>>> Command: adding q2, ans2 to memory at 2019-11-22 14:44:05.193743
+>>> Command: Checking memory for q3 at 2019-11-22 14:44:05.194476
+>>> Command: adding q3, ans3 to memory at 2019-11-22 14:44:05.194982
+>>> Command: Checking memory for q4 at 2019-11-22 14:44:05.195560
+>>> Command: adding q4, ans4 to memory at 2019-11-22 14:44:05.196005
+>>> Command: Checking memory for q5 at 2019-11-22 14:44:05.196505
+>>> Command: adding q5, ans5 to memory at 2019-11-22 14:44:05.196952
+>>> Command: Checking memory for q6 at 2019-11-22 14:44:05.197568
+>>> Command: adding q6, ans6 to memory at 2019-11-22 14:44:05.198025
+>>> Command: Checking memory for q7 at 2019-11-22 14:44:05.198639
+>>> Command: adding q7, ans7 to memory at 2019-11-22 14:44:05.199324
+>>> Command: Checking memory for q1 at 2019-11-22 14:44:53.001367
+>>> Command: Checking memory for q1 at 2019-11-22 14:47:49.754675
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:47:49.756500
+>>> Command: Checking memory for q2 at 2019-11-22 14:47:49.757594
+>>> Command: Checking memory for q3 at 2019-11-22 14:47:49.758308
+>>> Command: Checking memory for q4 at 2019-11-22 14:47:49.758867
+>>> Command: Checking memory for q5 at 2019-11-22 14:47:49.759309
+>>> Command: Checking memory for q6 at 2019-11-22 14:47:49.759746
+>>> Command: Checking memory for q7 at 2019-11-22 14:47:49.760180
+>>> Command: Checking memory for q1 at 2019-11-22 14:47:56.808231
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:47:56.809916
+>>> Command: Checking memory for q2 at 2019-11-22 14:47:56.810950
+>>> Command: Checking memory for q3 at 2019-11-22 14:47:56.811646
+>>> Command: Checking memory for q4 at 2019-11-22 14:47:56.812227
+>>> Command: Checking memory for q5 at 2019-11-22 14:47:56.812719
+>>> Command: Checking memory for q6 at 2019-11-22 14:47:56.813182
+>>> Command: Checking memory for q7 at 2019-11-22 14:47:56.813636
+>>> Command: Checking memory for q1 at 2019-11-22 14:48:04.281793
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:48:04.282695
+>>> Command: Checking memory for q2 at 2019-11-22 14:48:04.283484
+>>> Command: Checking memory for q3 at 2019-11-22 14:48:04.284977
+>>> Command: Checking memory for q4 at 2019-11-22 14:48:04.285674
+>>> Command: Checking memory for q5 at 2019-11-22 14:48:04.286351
+>>> Command: Checking memory for q6 at 2019-11-22 14:48:04.286878
+>>> Command: Checking memory for q7 at 2019-11-22 14:48:04.287370
+>>> Command: Checking memory for q1 at 2019-11-22 14:48:05.258315
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:48:05.260002
+>>> Command: Checking memory for q2 at 2019-11-22 14:48:05.260831
+>>> Command: Checking memory for q3 at 2019-11-22 14:48:05.261727
+>>> Command: Checking memory for q4 at 2019-11-22 14:48:05.262486
+>>> Command: Checking memory for q5 at 2019-11-22 14:48:05.263145
+>>> Command: Checking memory for q6 at 2019-11-22 14:48:05.263726
+>>> Command: Checking memory for q7 at 2019-11-22 14:48:05.264252
+>>> Command: Checking memory for q1 at 2019-11-22 14:48:06.238163
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:48:06.238979
+>>> Command: Checking memory for q2 at 2019-11-22 14:48:06.239715
+>>> Command: Checking memory for q3 at 2019-11-22 14:48:06.240324
+>>> Command: Checking memory for q4 at 2019-11-22 14:48:06.241064
+>>> Command: Checking memory for q5 at 2019-11-22 14:48:06.241616
+>>> Command: Checking memory for q6 at 2019-11-22 14:48:06.242122
+>>> Command: Checking memory for q7 at 2019-11-22 14:48:06.242922
+>>> Command: Checking memory for q1 at 2019-11-22 14:50:24.240697
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:53:23.145712
+>>> Command: Checking memory for q1 at 2019-11-22 14:53:52.389962
+>>> Command: Checking memory for q1 at 2019-11-22 14:54:37.784113
+>>> Command: Checking memory for q1 at 2019-11-22 14:54:42.152789
+>>> Command: Checking memory for q1 at 2019-11-22 14:54:46.861270
+>>> Command: Checking memory for q1 at 2019-11-22 14:54:47.732025
+>>> Command: Checking memory for q1 at 2019-11-22 14:54:48.522663
+>>> Command: Checking memory for q1 at 2019-11-22 14:55:01.647683
+>>> Command: adding q1, ans1 to memory at 2019-11-22 14:55:01.648946
+>>> Command: Checking memory for q2 at 2019-11-22 14:55:37.802251
+>>> Command: adding q2, ans2 to memory at 2019-11-22 14:55:37.803884
+>>> Command: Checking memory for q3 at 2019-11-22 14:55:52.309153
+>>> Command: adding q3, hello to memory at 2019-11-22 14:55:52.311062
+>>> Command: Checking memory for q3 at 2019-11-22 14:57:00.657812
+>>> Command: Found in memoryHELLO at 2019-11-22 14:57:00.660157
+>>> Command: Checking memory for q3 at 2019-11-22 14:57:31.397060
+>>> Command: Found in memoryHELLO at 2019-11-22 14:57:31.399383
+>>> Command: Checking memory for q3 at 2019-11-22 14:57:43.353755
+>>> Command: Found in memoryHELLO at 2019-11-22 14:57:43.355895
+>>> Command: Checking memory for q3 at 2019-11-22 14:57:58.869534
+>>> Command: Found in memoryHELLO at 2019-11-22 14:57:58.872024
+>>> Command: Checking memory for q3 at 2019-11-22 14:58:34.527312
+>>> Command: Checking memory for q3 at 2019-11-22 14:59:42.367934
+>>> Command: Checking memory for q3 at 2019-11-22 14:59:56.722277
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 14:59:56.825437
+>>> Command: Checking memory for q3 at 2019-11-22 15:02:23.014959
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:02:23.092386
+>>> Command: Checking memory for q3 at 2019-11-22 15:03:01.142864
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:03:01.213744
+>>> Command: Question: 2 + 2 at 2019-11-22 15:03:14.172442
+>>> Command: Checking Memory at 2019-11-22 15:03:14.174667
+>>> Command: Checking memory for 2 + 2 at 2019-11-22 15:03:14.174959
+>>> Command: trying wolframalpha for answer to 2 + 2 at 2019-11-22 15:03:14.175523
+>>> Command: trying wikipedia for answer to 2 + 2 at 2019-11-22 15:03:15.889844
+>>> Command: Outputing: from the website wikipedia, Terminator 2: Judgment Day (also promoted as T2) is a 1991 American science fiction action film produced and directed by James Cameron, who also co-wrote it with William Wisher. The film stars Arnold Schwarzenegger, Linda Hamilton, Robert Patrick, and Edward Furlong as its principal cast. would you like to hear more? at 2019-11-22 15:03:18.380678
+>>> Command: failed wikipedia at 2019-11-22 15:03:37.126883
+>>> Command: Outputing: I could not find an answer to that at 2019-11-22 15:03:37.128290
+>>> Command: Checking memory for q3 at 2019-11-22 15:05:14.633307
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:05:14.722460
+>>> Command: Question: exit at 2019-11-22 15:05:22.367944
+>>> Command: Exiting at 2019-11-22 15:05:22.368636
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:18:27.281227
+>>> Command: adding 20 times 10 to the 30th in scientific notation, 2×10^31 to memory at 2019-11-22 15:18:27.283718
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:18:27.332292
+>>> Command: Question: 2 + 2 at 2019-11-22 15:18:34.123466
+>>> Command: Checking Memory at 2019-11-22 15:18:34.123940
+>>> Command: Checking memory for 2 + 2 at 2019-11-22 15:18:34.125693
+>>> Command: trying wolframalpha for answer to 2 + 2 at 2019-11-22 15:18:34.126550
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:19:12.748604
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:19:22.736848
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:19:22.790943
+>>> Command: Question: 2 plue 2 at 2019-11-22 15:19:28.800648
+>>> Command: Checking Memory at 2019-11-22 15:19:28.801112
+>>> Command: Checking memory for 2 PLUE 2 at 2019-11-22 15:19:28.802610
+>>> Command: trying wolframalpha for answer to 2 PLUE 2 at 2019-11-22 15:19:28.803232
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:20:20.110164
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:20:20.159514
+>>> Command: Question: 2 plus 2 at 2019-11-22 15:20:29.252721
+>>> Command: Checking Memory at 2019-11-22 15:20:29.254813
+>>> Command: Checking memory for 2 PLUS 2 at 2019-11-22 15:20:29.255139
+>>> Command: trying wolframalpha for answer to 2 PLUS 2 at 2019-11-22 15:20:29.255744
+>>> Command: Checking memory for 2 plus 2 at 2019-11-22 15:20:30.610001
+>>> Command: adding 2 plus 2,  to memory at 2019-11-22 15:20:30.610794
+>>> Command: trying wikipedia for answer to 2 PLUS 2 at 2019-11-22 15:20:30.613039
+>>> Command: Outputing: from the website wikipedia, The phrase "two plus two equals five" ("2 + 2 = 5") is a slogan used in literature and other media, most notably the 1949 dystopian novel 1984 by George Orwell. In the novel, it is used as an example of an obviously false dogma that one may be required to believe, similar to other obviously false slogans promoted by the Party in the novel. would you like to hear more? at 2019-11-22 15:20:32.751086
+>>> Command: Outputing: Yes sir at 2019-11-22 15:21:02.124396
+>>> Command: Checking memory for 2 plus 2 at 2019-11-22 15:21:05.152301
+>>> Command: Question: what is a cuttlefish at 2019-11-22 15:21:17.964688
+>>> Command: Checking Memory at 2019-11-22 15:21:17.965296
+>>> Command: Checking memory for WHAT IS A CUTTLEFISH at 2019-11-22 15:21:17.965734
+>>> Command: trying wolframalpha for answer to WHAT IS A CUTTLEFISH at 2019-11-22 15:21:17.966662
+>>> Command: Checking memory for what is a cuttlefish at 2019-11-22 15:21:24.360747
+>>> Command: adding what is a cuttlefish, noun | ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell to memory at 2019-11-22 15:21:24.361574
+>>> Command: trying wikipedia for answer to WHAT IS A CUTTLEFISH at 2019-11-22 15:21:24.364533
+>>> Command: Outputing: from the website wikipedia, Sepia mestus, also known as the reaper cuttlefish or red cuttlefish, is a species of cuttlefish native to the southwestern Pacific Ocean, specifically Escape Reef off Queensland (15°47′S 145°47′E) to Murrays Beach off Jervis Bay (35°08′S 150°46′E). Reports of this species from China and Vietnam are now known to be misidentifications. would you like to hear more? at 2019-11-22 15:21:26.352694
+>>> Command: failed wikipedia at 2019-11-22 15:21:38.031698
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:22:03.849706
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:22:03.931790
+>>> Command: Question: 2 plus 2 at 2019-11-22 15:22:09.234469
+>>> Command: Checking Memory at 2019-11-22 15:22:09.235642
+>>> Command: Checking memory for 2 PLUS 2 at 2019-11-22 15:22:09.237768
+>>> Command: Found in memory at 2019-11-22 15:22:09.241085
+>>> Command: Outputing:  at 2019-11-22 15:22:22.055948
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:23:24.339499
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:23:24.409790
+>>> Command: Question: 2 plus 2 at 2019-11-22 15:23:31.066962
+>>> Command: Checking Memory at 2019-11-22 15:23:31.068498
+>>> Command: Checking memory for 2 PLUS 2 at 2019-11-22 15:23:36.373121
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:33:13.492344
+>>> Command: adding 20 times 10 to the 30th in scientific notation, 2×10^31 to memory at 2019-11-22 15:33:13.494823
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:33:13.560140
+>>> Command: Question: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 at 2019-11-22 15:33:26.058093
+>>> Command: Checking Memory at 2019-11-22 15:33:26.058663
+>>> Command: Checking memory for /LIBRARY/FRAMEWORKS/PYTHON.FRAMEWORK/VERSIONS/3.7/BIN/PYTHON3 at 2019-11-22 15:33:26.058928
+>>> Command: trying wolframalpha for answer to /LIBRARY/FRAMEWORKS/PYTHON.FRAMEWORK/VERSIONS/3.7/BIN/PYTHON3 at 2019-11-22 15:33:26.059515
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:33:42.896666
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:33:42.943654
+>>> Command: Question: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 /Users/ryanvogel/R.A.A.V/Builds/2.0/Cores/initialization_core.py at 2019-11-22 15:33:55.297737
+>>> Command: Checking Memory at 2019-11-22 15:33:55.299948
+>>> Command: Checking memory for /LIBRARY/FRAMEWORKS/PYTHON.FRAMEWORK/VERSIONS/3.7/BIN/PYTHON3 /USERS/RYANVOGEL/R.A.A.V/BUILDS/2.0/CORES/INITIALIZATION_CORE.PY at 2019-11-22 15:33:55.300317
+>>> Command: trying wolframalpha for answer to /LIBRARY/FRAMEWORKS/PYTHON.FRAMEWORK/VERSIONS/3.7/BIN/PYTHON3 /USERS/RYANVOGEL/R.A.A.V/BUILDS/2.0/CORES/INITIALIZATION_CORE.PY at 2019-11-22 15:33:55.301325
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 15:34:24.452544
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 15:34:24.497855
+>>> Command: Question: 2 plus 2 at 2019-11-22 15:34:43.449473
+>>> Command: Checking Memory at 2019-11-22 15:34:43.450128
+>>> Command: Checking memory for 2 PLUS 2 at 2019-11-22 15:34:43.451635
+>>> Command: trying wolframalpha for answer to 2 PLUS 2 at 2019-11-22 15:34:43.452268
+>>> Command: Checking memory for 2 plus 2 at 2019-11-22 15:34:45.037609
+>>> Command: adding 2 plus 2,  to memory at 2019-11-22 15:34:45.038418
+>>> Command: Outputing:  at 2019-11-22 15:34:45.040591
+>>> Command: Outputing: I could not find an answer to that at 2019-11-22 15:34:48.842009
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 17:05:15.700007
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 17:05:23.905587
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 17:05:23.998809
+>>> Command: Question: 2 plus 2 at 2019-11-22 17:05:35.577892
+>>> Command: Checking Memory at 2019-11-22 17:06:09.759673
+>>> Command: Checking memory for 2 PLUS 2 at 2019-11-22 17:06:16.919078
+>>> Command: Question: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 /Users/ryanvogel/R.A.A.V/Builds/2.0/Cores/initialization_core.py at 2019-11-22 17:07:08.698565
+>>> Command: Checking Memory at 2019-11-22 17:07:08.725517
+>>> Command: Checking memory for /LIBRARY/FRAMEWORKS/PYTHON.FRAMEWORK/VERSIONS/3.7/BIN/PYTHON3 /USERS/RYANVOGEL/R.A.A.V/BUILDS/2.0/CORES/INITIALIZATION_CORE.PY at 2019-11-22 17:07:08.733776
+>>> Command: trying wolframalpha for answer to /LIBRARY/FRAMEWORKS/PYTHON.FRAMEWORK/VERSIONS/3.7/BIN/PYTHON3 /USERS/RYANVOGEL/R.A.A.V/BUILDS/2.0/CORES/INITIALIZATION_CORE.PY at 2019-11-22 17:07:08.783079
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 17:07:29.093107
+>>> Command: adding 20 times 10 to the 30th in scientific notation, 2×10^31 to memory at 2019-11-22 17:07:29.094592
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 17:07:29.188427
+>>> Command: Question: exit at 2019-11-22 17:07:54.457126
+>>> Command: Exiting at 2019-11-22 17:07:54.459190
+>>> Command: Checking memory for 20 times 10 to the 30th in scientific notation at 2019-11-22 17:12:51.501570
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 17:12:51.582364
+>>> Command: Question: what is a dog at 2019-11-22 17:13:08.857736
+>>> Command: Checking Memory at 2019-11-22 17:22:36.663766
+>>> Command: Checking memory for WHAT IS A DOG at 2019-11-22 17:23:03.549975
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 17:25:21.256536
+>>> Command: Question: what is a dog at 2019-11-22 17:25:29.968773
+>>> Command: Checking Memory at 2019-11-22 17:25:29.969796
+>>> Command: Checking memory for WHAT IS A DOG at 2019-11-22 17:25:29.970958
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 17:26:56.249328
+>>> Command: Question: what is a dog at 2019-11-22 17:27:04.475308
+>>> Command: Checking Memory at 2019-11-22 17:27:04.477231
+>>> Command: Checking memory for WHAT IS A DOG at 2019-11-22 17:27:04.478382
+>>> Command: trying wolframalpha for answer to WHAT IS A DOG at 2019-11-22 17:27:24.275105
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-11-22 17:30:50.436516
+>>> Command: Question: what is a dog at 2019-11-22 17:30:55.547032
+>>> Command: Checking Memory at 2019-11-22 17:30:55.547648
+>>> Command: Checking memory for WHAT IS A DOG at 2019-11-22 17:30:55.549956
+>>> Command: trying wolframalpha for answer to WHAT IS A DOG at 2019-11-22 17:30:55.551200
+>>> Command: trying wikipedia for answer to WHAT IS A DOG at 2019-11-22 17:31:01.014448
+>>> Command: Checking memory for what is a dog at 2019-11-22 17:31:03.129696
+>>> Command: adding what is a dog, from the website wikipedia, What the Dog Saw: And Other Adventures is the fourth book released by author Malcolm Gladwell, on October 20, 2009. The book is a compilation of the journalist's articles published in The New Yorker. to memory at 2019-11-22 17:31:03.130334
+>>> Command: Outputing: from the website wikipedia, What the Dog Saw: And Other Adventures is the fourth book released by author Malcolm Gladwell, on October 20, 2009. The book is a compilation of the journalist's articles published in The New Yorker. would you like to hear more? at 2019-11-22 17:31:03.132607
+>>> Command: Outputing: Yes sir at 2019-11-22 17:31:25.194931
+>>> Command: Question: exit at 2019-11-22 17:31:30.722628
+>>> Command: Exiting at 2019-11-22 17:31:30.725508

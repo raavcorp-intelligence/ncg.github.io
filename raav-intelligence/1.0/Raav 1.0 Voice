@@ -1,0 +1,35 @@
+#Raav Voice Build 1.0
+#__________________________Imports___________________________________________
+import wolframalpha
+#import SpeechRecognition as SR
+import math
+#import pyaudio
+#import pyttsx3
+#import wikapedia {check verification}
+#The imports commented out have not been installed on RaavDesk
+#Installed on RaavDesk:
+#-wolframalpha
+#-math {built in}
+#__________________________Varables__________________________________________
+global app_id = "LQEGLQ-JVJTQP73QA"
+# That is for WolframAlpha
+
+
+#__________________________Definitions_______________________________________
+def callWolf(question): 
+	#Wolfram Alpha Functions
+	client = wolframalpha.Client(app_id)
+	#validates the client ID
+	result = client.query(question)
+	#gets the answer to the question
+	answer = next(result.results).text
+	#converts the answer to text 
+	return answer
+	#returns answer as x = y()
+def speechOut(talktext):
+	#
+def memoryStorage():
+	file = open("Memory.txt", "w")
+	file.write("Hello World")
+	file.close().
+memoryStorage()

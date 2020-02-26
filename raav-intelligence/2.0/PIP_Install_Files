@@ -1,0 +1,7 @@
+This is just a directory of all the PIP addons
+pip3 install SpeechRecognition - https://pypi.org/project/SpeechRecognition/
+pip3 install wikipedia - https://pypi.org/project/wikipedia/
+*pip3 install PyAudio - Certain Conditions
+pip3 install wolframalpha - https://pypi.org/project/wolframalpha/
+pip3 install pyttsx3 - https://pypi.org/project/pyttsx3/
+pip3 install google - https://pypi.org/project/google-search/
