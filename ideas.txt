@@ -1,0 +1,2 @@
+Convert the sentance to parts of speech (Verbs, Nouns, Adverbs, etc) Then using those predefined things the AI can learn from that.
+
