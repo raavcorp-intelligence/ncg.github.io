@@ -1,0 +1,1963 @@
+Word: What == Description: Verb, 3rd person singular present
+Word: are == Description: Verb, gerund or present participle
+Word: your == Description: Personal pronoun
+Word: favorite == Description: Adjective
+Word: flavors == Description: Noun, singular or mass
+WP VBP PRP$ JJ NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Keep == Description: to
+Word: it == Description: Possessive ending
+Word: up == Description: Adverb, superlative
+Word: Let == Description: to
+Word: me == Description: Possessive ending
+Word: see == Description: to
+VB PRP RP VB PRP VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: ca == Description: List item marker
+Word: n't == Description: Possessive pronoun
+Word: wait == Description: to
+Word: to == Description: Particle
+Word: eat == Description: to
+Word: dinner == Description: Modal
+PRP MD RB VB TO VB NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: did == Description: Interjection
+Word: he == Description: Possessive ending
+Word: tell == Description: to
+Word: you == Description: Possessive ending
+WP VBD PRP VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Could == Description: Noun, plural
+Word: you == Description: Possessive ending
+Word: do == Description: Verb, gerund or present participle
+Word: me == Description: Possessive ending
+Word: a == Description: Determiner
+Word: really == Description: Possessive pronoun
+Word: big == Description: Adjective
+Word: favor == Description: Modal
+NNP PRP VBP PRP DT RB JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: am == Description: Verb, gerund or present participle
+Word: doing == Description: Verb, base form
+Word: just == Description: Possessive pronoun
+Word: wonderful == Description: Adjective
+PRP VBP VBG RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: have == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: opened == Description: Verb, past tense
+Word: the == Description: Determiner
+Word: door == Description: Modal
+WRB VBP PRP VBN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: is == Description: Verb, past participle
+Word: your == Description: Personal pronoun
+Word: favorite == Description: Adjective
+Word: movie == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: what == Description: Verb, 3rd person singular present
+Word: happens == Description: Verb, past participle
+Word: in == Description: Preposition or subordinating conjunction
+Word: it == Description: Possessive ending
+WP VBZ PRP$ JJ NN CC WP VBZ IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: They == Description: Possessive ending
+Word: don’t == Description: Verb, gerund or present participle
+Word: go == Description: to
+Word: to == Description: Particle
+Word: school == Description: Modal
+Word: tomorrow == Description: Modal
+PRP VBP VB TO NN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: what == Description: Verb, 3rd person singular present
+Word: did == Description: Interjection
+Word: you == Description: Possessive ending
+Word: do == Description: to
+Word: for == Description: Preposition or subordinating conjunction
+Word: your == Description: Personal pronoun
+Word: last == Description: Adjective
+Word: birthday == Description: Modal
+WP VBD PRP VB IN PRP$ JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: love == Description: Verb, gerund or present participle
+Word: my == Description: Personal pronoun
+Word: college == Description: Modal
+Word: friends == Description: Noun, singular or mass
+PRP VBP PRP$ NN NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Mind == Description: to
+Word: your == Description: Personal pronoun
+Word: own == Description: Adjective
+Word: business == Description: Modal
+VB PRP$ JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: close == Description: Verb, gerund or present participle
+Word: the == Description: Determiner
+Word: window == Description: Modal
+PRP VBP DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: have == Description: to
+Word: a == Description: Determiner
+Word: little == Description: Adjective
+Word: one == Description: Cardinal number
+Word: than == Description: Preposition or subordinating conjunction
+Word: these == Description: Determiner
+VBP PRP VB DT JJ CD IN DT 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: It == Description: Possessive ending
+Word: didn’t == Description: Verb, past participle
+Word: live == Description: Adjective
+Word: up == Description: Possessive pronoun
+Word: to == Description: Particle
+Word: my == Description: Personal pronoun
+Word: expectations == Description: Noun, singular or mass
+Word: at == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: meeting == Description: Modal
+PRP VBZ JJ RB TO PRP$ NNS IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: like == Description: Preposition or subordinating conjunction
+Word: to == Description: Particle
+Word: do == Description: to
+Word: with == Description: Preposition or subordinating conjunction
+Word: other == Description: Adjective
+Word: people == Description: Noun, singular or mass
+WP VBP PRP IN TO VB IN JJ NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Look == Description: Modal
+Word: at == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: blackboard == Description: Modal
+NN IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Good == Description: Adjective
+Word: morning == Description: Modal
+JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Healthy == Description: Adjective
+Word: beautiful == Description: Modal
+Word: smiles == Description: Noun, singular or mass
+Word: are == Description: Verb, gerund or present participle
+Word: what == Description: Verb, 3rd person singular present
+Word: we == Description: Possessive ending
+Word: like == Description: Verb, gerund or present participle
+Word: to == Description: Particle
+Word: see == Description: to
+JJ NN NNS VBP WP PRP VBP TO VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: want == Description: Verb, gerund or present participle
+Word: to == Description: Particle
+Word: ask == Description: to
+Word: them == Description: Possessive ending
+Word: when == Description: Wh-pronoun
+Word: their == Description: Personal pronoun
+Word: big == Description: Adjective
+Word: day == Description: Modal
+Word: is == Description: Verb, past participle
+PRP VBP TO VB PRP WRB PRP$ JJ NN VBZ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: so == Description: Possessive pronoun
+Word: disgraceful == Description: Adjective
+Word: I == Description: Possessive ending
+Word: ca == Description: List item marker
+Word: n't == Description: Possessive pronoun
+Word: even == Description: Possessive pronoun
+Word: believe == Description: to
+Word: it == Description: Possessive ending
+PRP VBP RB JJ PRP MD RB RB VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Tom == Description: Noun, plural
+Word: 's == Description: Predeterminer
+Word: house == Description: Modal
+Word: is == Description: Verb, past participle
+Word: at == Description: Preposition or subordinating conjunction
+Word: least == Description: Adjective, comparative
+Word: twice == Description: Possessive pronoun
+Word: as == Description: Possessive pronoun
+Word: big == Description: Adjective
+Word: as == Description: Preposition or subordinating conjunction
+Word: mine == Description: Modal
+NNP POS NN VBZ IN JJS RB RB JJ IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: be == Description: to
+Word: silly == Description: Possessive pronoun
+Word: you == Description: Possessive ending
+Word: 're == Description: Verb, gerund or present participle
+Word: going == Description: Verb, base form
+Word: to == Description: Particle
+Word: the == Description: Determiner
+Word: game == Description: Modal
+NNP VB RB PRP VBP VBG TO DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: does == Description: Verb, past participle
+Word: it == Description: Possessive ending
+Word: mean == Description: to
+Word: to == Description: Particle
+Word: think == Description: to
+Word: big == Description: Adjective
+WP VBZ PRP VB TO VB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: It’s == Description: Noun, plural
+Word: bound == Description: Modal
+Word: to == Description: Particle
+Word: happen == Description: to
+Word: eventually == Description: Possessive pronoun
+NNP NN TO VB RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: used == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: piece == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: paper == Description: Modal
+Word: to == Description: Particle
+Word: make == Description: to
+Word: the == Description: Determiner
+Word: bag == Description: Modal
+PRP VBD DT JJ NN IN NN TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: are == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: opening == Description: Verb, base form
+Word: the == Description: Determiner
+Word: door == Description: Modal
+WRB VBP PRP VBG DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: house == Description: Modal
+Word: you == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+WP DT JJ NN PRP VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: The == Description: Determiner
+Word: devil == Description: Modal
+Word: made == Description: Interjection
+Word: me == Description: Possessive ending
+Word: do == Description: to
+Word: it == Description: Possessive ending
+DT NN VBD PRP VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: the == Description: Determiner
+Word: Weakest == Description: Noun, plural
+Word: Link == Description: Noun, plural
+Word: Goodbye == Description: Modal
+PRP VBP DT NNP NNP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Mind == Description: to
+Word: your == Description: Personal pronoun
+Word: own == Description: Adjective
+Word: business == Description: Modal
+VB PRP$ JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: does == Description: Verb, past participle
+Word: everything == Description: Modal
+Word: without == Description: Preposition or subordinating conjunction
+Word: aim == Description: Modal
+PRP VBZ NN IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Have == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: ever == Description: Possessive pronoun
+Word: lived == Description: Interjection
+Word: in == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: city == Description: Modal
+VBP PRP RB VBD IN DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: That’s == Description: Noun, plural
+Word: too == Description: Possessive pronoun
+Word: bad == Description: Adjective
+Word: you == Description: Possessive ending
+Word: should == Description: List item marker
+Word: have == Description: to
+Word: thought == Description: Verb, past tense
+Word: of == Description: Preposition or subordinating conjunction
+Word: that == Description: Determiner
+Word: before == Description: Preposition or subordinating conjunction
+NNP RB JJ PRP MD VB VBN IN DT IN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+Word: a == Description: Determiner
+Word: feeling == Description: Modal
+Word: that == Description: Preposition or subordinating conjunction
+Word: something == Description: Modal
+Word: big == Description: Adjective
+Word: is == Description: Verb, past participle
+Word: about == Description: Preposition or subordinating conjunction
+Word: to == Description: Particle
+Word: happen == Description: to
+PRP VBP DT NN IN NN JJ VBZ IN TO VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: My == Description: Personal pronoun
+Word: legs == Description: Noun, singular or mass
+Word: feel == Description: Verb, gerund or present participle
+Word: like == Description: Preposition or subordinating conjunction
+Word: noodles == Description: Noun, singular or mass
+PRP$ NNS VBP IN NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: you == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+WRB JJ PRP VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: much == Description: Adjective
+Word: was == Description: Interjection
+Word: that == Description: Preposition or subordinating conjunction
+Word: meal == Description: Modal
+WRB JJ VBD IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Ask == Description: to
+Word: your == Description: Personal pronoun
+Word: guest == Description: Adjective, comparative
+Word: if == Description: Preposition or subordinating conjunction
+Word: you == Description: Possessive ending
+Word: could == Description: List item marker
+Word: serve == Description: to
+Word: them == Description: Possessive ending
+Word: tea == Description: Possessive pronoun
+Word: if == Description: Preposition or subordinating conjunction
+Word: they == Description: Possessive ending
+Word: say == Description: Verb, gerund or present participle
+Word: yes == Description: Symbol
+Word: say == Description: Verb, gerund or present participle
+Word: “You == Description: Noun, singular or mass
+Word: have == Description: Verb, gerund or present participle
+Word: to == Description: Particle
+Word: wear == Description: to
+Word: a == Description: Determiner
+Word: T-shirt == Description: Modal
+Word: to == Description: Particle
+Word: have == Description: to
+Word: my == Description: Personal pronoun
+Word: tea == Description: Modal
+VB PRP$ JJS IN PRP MD VB PRP RB IN PRP VBP UH VBP NNS VBP TO VB DT NN TO VB PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Good == Description: Adjective
+Word: heavens == Description: Noun, singular or mass
+Word: you’ve == Description: Verb, gerund or present participle
+Word: grown == Description: Verb, past tense
+JJ NNS VBP VBN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Tom == Description: Noun, plural
+Word: is == Description: Verb, past participle
+Word: n't == Description: Possessive pronoun
+Word: listed == Description: Verb, past tense
+Word: in == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: phone == Description: Modal
+Word: book == Description: Modal
+NNP VBZ RB VBN IN DT NN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: use == Description: Verb, gerund or present participle
+Word: my == Description: Personal pronoun
+Word: hands == Description: Noun, singular or mass
+Word: to == Description: Particle
+Word: eat == Description: to
+PRP VBP PRP$ NNS TO VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Could == Description: Noun, plural
+Word: you == Description: Possessive ending
+Word: spell == Description: Verb, gerund or present participle
+Word: it == Description: Possessive ending
+NNP PRP VBP PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: These == Description: Determiner
+Word: shoes == Description: Noun, singular or mass
+Word: are == Description: Verb, gerund or present participle
+Word: too == Description: Possessive pronoun
+Word: big == Description: Adjective
+Word: for == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+DT NNS VBP RB JJ IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Tom == Description: Noun, plural
+Word: is == Description: Verb, past participle
+Word: on == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: short == Description: Adjective
+Word: list == Description: Modal
+NNP VBZ IN DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: threw == Description: Interjection
+Word: up == Description: Adverb, superlative
+Word: all == Description: Determiner
+Word: over == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+PRP VBD RP DT IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Tom == Description: Noun, plural
+Word: believes == Description: Verb, past participle
+Word: that == Description: Preposition or subordinating conjunction
+Word: Mary == Description: Noun, plural
+Word: made == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: mistake == Description: Modal
+Word: when == Description: Wh-pronoun
+Word: she == Description: Possessive ending
+Word: sold == Description: Interjection
+Word: her == Description: Personal pronoun
+Word: father == Description: Modal
+Word: 's == Description: Predeterminer
+Word: Stradivarius == Description: Noun, plural
+NNP VBZ IN NNP VBD DT JJ NN WRB PRP VBD PRP$ NN POS NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: brought == Description: Interjection
+Word: you == Description: Possessive ending
+Word: into == Description: Preposition or subordinating conjunction
+Word: this == Description: Determiner
+Word: world == Description: Modal
+Word: so == Description: Preposition or subordinating conjunction
+Word: I == Description: Possessive ending
+Word: can == Description: List item marker
+Word: take == Description: to
+Word: you == Description: Possessive ending
+Word: out == Description: Adverb, superlative
+PRP VBD PRP IN DT NN IN PRP MD VB PRP RP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: is == Description: Verb, past participle
+Word: he == Description: Possessive ending
+WRB JJ VBZ PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: It == Description: Possessive ending
+Word: could == Description: List item marker
+Word: be == Description: to
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: problem == Description: Modal
+PRP MD VB DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: never == Description: Possessive pronoun
+Word: wants == Description: Verb, past participle
+Word: to == Description: Particle
+Word: go == Description: to
+Word: on == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: rollercoaster == Description: Modal
+Word: again == Description: Possessive pronoun
+PRP RB VBZ TO VB IN DT NN RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: not == Description: Possessive pronoun
+Word: guessing == Description: Verb, base form
+Word: I == Description: Possessive ending
+Word: really == Description: Possessive pronoun
+Word: know == Description: Verb, gerund or present participle
+PRP VBP RB VBG PRP RB VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: open == Description: Interjection
+Word: the == Description: Determiner
+Word: door == Description: Modal
+NNP VBD DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: kind == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: sentence == Description: Modal
+Word: are == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: looking == Description: Verb, base form
+Word: for == Description: Preposition or subordinating conjunction
+Word: anyway == Description: Possessive pronoun
+WP NN IN NN VBP PRP VBG IN RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: like == Description: Verb, gerund or present participle
+Word: crawfish == Description: Adjective
+Word: but == Description: Coordinating conjunction
+Word: oysters == Description: Noun, singular or mass
+Word: suck == Description: Verb, gerund or present participle
+PRP VBP JJ CC NNS VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: It == Description: Possessive ending
+Word: 's == Description: Verb, past participle
+Word: no == Description: Determiner
+Word: big == Description: Adjective
+Word: deal == Description: Modal
+PRP VBZ DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: does == Description: Verb, past participle
+Word: the == Description: Determiner
+Word: train == Description: Modal
+Word: usually == Description: Possessive pronoun
+Word: leave == Description: Verb, gerund or present participle
+WRB VBZ DT NN RB VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: dog == Description: Modal
+Word: that == Description: Verb, non-3rd person singular present
+Word: is == Description: Verb, past participle
+WP DT JJ NN WDT VBZ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: eater == Description: Modal
+Word: he == Description: Possessive ending
+Word: is == Description: Verb, past participle
+WP DT JJ NN PRP VBZ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+Word: brothers == Description: Noun, singular or mass
+Word: than == Description: Preposition or subordinating conjunction
+Word: you == Description: Possessive ending
+PRP VBP NNS IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: She == Description: Possessive ending
+Word: started == Description: Interjection
+Word: crying == Description: Verb, base form
+Word: on == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: train == Description: Modal
+PRP VBD VBG IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: is == Description: Verb, past participle
+Word: your == Description: Personal pronoun
+Word: favorite == Description: Adjective
+Word: color == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: why == Description: Wh-pronoun
+WP VBZ PRP$ JJ NN CC WRB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Being == Description: Verb, base form
+Word: late == Description: Adjective
+Word: is == Description: Verb, past participle
+Word: okay == Description: Adjective
+Word: but == Description: Coordinating conjunction
+Word: only == Description: Possessive pronoun
+Word: sometimes == Description: Possessive pronoun
+VBG JJ VBZ JJ CC RB RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: open == Description: Interjection
+Word: the == Description: Determiner
+Word: door == Description: Modal
+NNP VBD DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: That == Description: Determiner
+Word: man == Description: Modal
+Word: is == Description: Verb, past participle
+Word: holding == Description: Verb, base form
+Word: a == Description: Determiner
+Word: gun == Description: Modal
+DT NN VBZ VBG DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: This == Description: Determiner
+Word: company == Description: Modal
+Word: 's == Description: Predeterminer
+Word: profit == Description: Modal
+Word: margin == Description: Modal
+Word: is == Description: Verb, past participle
+Word: very == Description: Possessive pronoun
+Word: big == Description: Adjective
+DT NN POS NN NN VBZ RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Keep == Description: to
+Word: it == Description: Possessive ending
+Word: up == Description: Adverb, superlative
+Word: Let == Description: to
+Word: me == Description: Possessive ending
+Word: see == Description: to
+VB PRP RP VB PRP VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: threw == Description: Interjection
+Word: up == Description: Adverb, superlative
+Word: all == Description: Determiner
+Word: over == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+PRP VBD RP DT IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: pigs == Description: Noun, singular or mass
+Word: like == Description: Preposition or subordinating conjunction
+Word: milk == Description: Modal
+VBP NNS IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: quick == Description: Adjective
+Word: trip == Description: Modal
+Word: back == Description: Possessive pronoun
+Word: to == Description: Particle
+Word: Tennessee == Description: Noun, plural
+Word: for == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: weekend == Description: Modal
+JJ NN RB TO NNP IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: the == Description: Determiner
+Word: Weakest == Description: Noun, plural
+Word: Link == Description: Noun, plural
+Word: Goodbye == Description: Modal
+PRP VBP DT NNP NNP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: think == Description: Verb, gerund or present participle
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: in == Description: Preposition or subordinating conjunction
+Word: big == Description: Adjective
+Word: trouble == Description: Modal
+PRP VBP PRP VBP IN JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: who == Description: Verb, 3rd person singular present
+Word: will == Description: List item marker
+Word: do == Description: to
+Word: all == Description: Determiner
+Word: the == Description: Determiner
+Word: housework == Description: Modal
+WP MD VB DT DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: If == Description: Preposition or subordinating conjunction
+Word: you == Description: Possessive ending
+Word: could == Description: List item marker
+Word: live == Description: to
+Word: anywhere == Description: Possessive pronoun
+Word: where == Description: Wh-pronoun
+Word: would == Description: List item marker
+Word: you == Description: Possessive ending
+Word: live == Description: to
+Word: and == Description: Coordinating conjunction
+Word: why == Description: Wh-pronoun
+IN PRP MD VB RB WRB MD PRP VB CC WRB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Good == Description: Adjective
+Word: morning == Description: Modal
+JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Can == Description: List item marker
+Word: I == Description: Possessive ending
+Word: help == Description: to
+Word: you == Description: Possessive ending
+MD PRP VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: we == Description: Possessive ending
+Word: know == Description: to
+Word: each == Description: Determiner
+Word: other == Description: Adjective
+VBP PRP VB DT JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+Word: always == Description: Possessive pronoun
+Word: fed == Description: Verb, past tense
+Word: my == Description: Personal pronoun
+Word: dog == Description: Modal
+Word: the == Description: Determiner
+Word: dog == Description: Modal
+Word: food == Description: Modal
+Word: that == Description: Verb, non-3rd person singular present
+Word: comes == Description: Verb, past participle
+Word: in == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: big == Description: Adjective
+Word: green == Description: Adjective
+Word: bag == Description: Modal
+PRP VBP RB VBN PRP$ NN DT NN NN WDT VBZ IN DT JJ JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: The == Description: Determiner
+Word: concert == Description: Modal
+Word: was == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: disappointment == Description: Modal
+DT NN VBD DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: so == Description: Possessive pronoun
+Word: disgraceful == Description: Adjective
+Word: I == Description: Possessive ending
+Word: ca == Description: List item marker
+Word: n't == Description: Possessive pronoun
+Word: even == Description: Possessive pronoun
+Word: believe == Description: to
+Word: it == Description: Possessive ending
+PRP VBP RB JJ PRP MD RB RB VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: to
+Word: you == Description: Possessive ending
+Word: guys == Description: Noun, singular or mass
+Word: have == Description: Verb, gerund or present participle
+Word: any == Description: Determiner
+Word: big == Description: Adjective
+Word: plans == Description: Noun, singular or mass
+Word: tonight == Description: Verb, past tense
+VB PRP NNS VBP DT JJ NNS VBN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: did == Description: Interjection
+Word: you == Description: Possessive ending
+Word: come == Description: to
+Word: by == Description: Preposition or subordinating conjunction
+Word: such == Description: Proper noun, plural
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: sum == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: money == Description: Modal
+WRB VBD PRP VB IN PDT DT JJ NN IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: threw == Description: Interjection
+Word: up == Description: Adverb, superlative
+Word: in == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: trash == Description: Modal
+Word: can == Description: List item marker
+PRP VBD RP IN DT NN MD 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Is == Description: Verb, past participle
+Word: football == Description: Modal
+Word: a == Description: Determiner
+Word: sport == Description: Modal
+VBZ NN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Carl == Description: Noun, plural
+Word: won == Description: Interjection
+Word: the == Description: Determiner
+Word: spelling == Description: Modal
+Word: bee == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: got == Description: Interjection
+Word: a == Description: Determiner
+Word: trophy == Description: Modal
+NNP VBD DT NN NN CC VBD DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: That == Description: Determiner
+Word: class == Description: Modal
+Word: was == Description: Interjection
+Word: so == Description: Possessive pronoun
+Word: hard == Description: Adjective
+DT NN VBD RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: This == Description: Determiner
+Word: box == Description: Modal
+Word: is == Description: Verb, past participle
+Word: three == Description: Cardinal number
+Word: times == Description: Noun, singular or mass
+Word: as == Description: Possessive pronoun
+Word: big == Description: Adjective
+Word: as == Description: Preposition or subordinating conjunction
+Word: that == Description: Determiner
+Word: one == Description: Cardinal number
+DT NN VBZ CD NNS RB JJ IN DT CD 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: This == Description: Determiner
+Word: dog == Description: Modal
+Word: is == Description: Verb, past participle
+Word: big == Description: Adjective
+DT NN VBZ JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Good == Description: Adjective
+Word: heavens == Description: Noun, singular or mass
+Word: you’ve == Description: Verb, gerund or present participle
+Word: grown == Description: Verb, past tense
+JJ NNS VBP VBN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: is == Description: Verb, past participle
+Word: your == Description: Personal pronoun
+Word: favorite == Description: Adjective
+Word: thing == Description: Modal
+Word: about == Description: Preposition or subordinating conjunction
+Word: school == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: why == Description: Wh-pronoun
+WP VBZ PRP$ JJ NN IN NN CC WRB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: She == Description: Possessive ending
+Word: works == Description: Verb, past participle
+Word: for == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: advertising == Description: Modal
+Word: firm == Description: Modal
+Word: in == Description: Preposition or subordinating conjunction
+Word: New == Description: Noun, plural
+Word: York == Description: Noun, plural
+PRP VBZ IN DT JJ NN NN IN NNP NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: two == Description: Cardinal number
+Word: had == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: fight == Description: Modal
+Word: last == Description: Adjective
+Word: night == Description: Modal
+Word: did == Description: Interjection
+Word: n't == Description: Possessive pronoun
+Word: you == Description: Possessive ending
+PRP CD VBD DT JJ NN JJ NN VBD RB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: boy == Description: Modal
+Word: he == Description: Possessive ending
+Word: is == Description: Verb, past participle
+WP DT JJ NN PRP VBZ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: so == Description: Possessive pronoun
+Word: disgraceful == Description: Adjective
+Word: I == Description: Possessive ending
+Word: ca == Description: List item marker
+Word: n't == Description: Possessive pronoun
+Word: even == Description: Possessive pronoun
+Word: believe == Description: to
+Word: it == Description: Possessive ending
+PRP VBP RB JJ PRP MD RB RB VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: There == Description: Existential there
+Word: are == Description: Verb, gerund or present participle
+Word: new == Description: Adjective
+Word: deals == Description: Noun, singular or mass
+Word: every == Description: Determiner
+Word: single == Description: Adjective
+Word: day == Description: Modal
+EX VBP JJ NNS DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: 's == Description: Verb, past participle
+Word: dead == Description: Adjective
+Word: Jim == Description: Noun, plural
+PRP VBZ JJ NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: No == Description: Determiner
+Word: problem == Description: Modal
+Word: That == Description: Determiner
+Word: 's == Description: Verb, past participle
+Word: all == Description: Determiner
+Word: Time == Description: Modal
+Word: is == Description: Verb, past participle
+Word: up == Description: Adverb, superlative
+DT NN DT VBZ DT NN VBZ RP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: the == Description: Determiner
+Word: Weakest == Description: Noun, plural
+Word: Link == Description: Noun, plural
+Word: Goodbye == Description: Modal
+PRP VBP DT NNP NNP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: That == Description: Determiner
+Word: man == Description: Modal
+Word: is == Description: Verb, past participle
+Word: holding == Description: Verb, base form
+Word: a == Description: Determiner
+Word: gun == Description: Modal
+DT NN VBZ VBG DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Pandas == Description: Noun, plural
+Word: never == Description: Possessive pronoun
+Word: stop == Description: Interjection
+Word: eating == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: jealous == Description: Adjective
+NNP RB VBD NN CC PRP VBP JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: My == Description: Personal pronoun
+Word: Dad == Description: Noun, plural
+Word: never == Description: Possessive pronoun
+Word: works == Description: Verb, past participle
+Word: on == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: weekends == Description: Noun, singular or mass
+PRP$ NNP RB VBZ IN DT NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: quick == Description: Adjective
+Word: trip == Description: Modal
+Word: back == Description: Possessive pronoun
+Word: to == Description: Particle
+Word: Tennessee == Description: Noun, plural
+Word: for == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: weekend == Description: Modal
+JJ NN RB TO NNP IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: have == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: opened == Description: Verb, past tense
+Word: the == Description: Determiner
+Word: door == Description: Modal
+WRB VBP PRP VBN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: eater == Description: Modal
+Word: he == Description: Possessive ending
+Word: is == Description: Verb, past participle
+WP DT JJ NN PRP VBZ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Here == Description: Possessive pronoun
+Word: he == Description: Possessive ending
+Word: comes == Description: Verb, past participle
+Word: to == Description: Particle
+Word: save == Description: to
+Word: the == Description: Determiner
+Word: day == Description: Modal
+RB PRP VBZ TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Why == Description: Wh-pronoun
+Word: is == Description: Verb, past participle
+Word: it == Description: Possessive ending
+Word: such == Description: Proper noun, plural
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: secret == Description: Modal
+WRB VBZ PRP PDT DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: an == Description: Determiner
+Word: idiot == Description: Modal
+Word: do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: think == Description: to
+Word: I == Description: Possessive ending
+Word: am == Description: Verb, gerund or present participle
+WRB JJ DT NN VBP PRP VB PRP VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Good == Description: Adjective
+Word: gracious == Description: Adjective
+Word: Ridiculous == Description: Adjective
+JJ JJ JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: We == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+Word: a == Description: Determiner
+Word: juice == Description: Modal
+Word: bar == Description: Modal
+PRP VBP DT NN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Here == Description: Possessive pronoun
+Word: 's == Description: Predeterminer
+Word: my == Description: Personal pronoun
+Word: big == Description: Adjective
+Word: brother == Description: Modal
+Word: Does == Description: Verb, past participle
+Word: n't == Description: Possessive pronoun
+Word: he == Description: Possessive ending
+Word: look == Description: to
+Word: good == Description: Adjective
+RB POS PRP$ JJ NN VBZ RB PRP VB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: This == Description: Determiner
+Word: is == Description: Verb, past participle
+Word: obviously == Description: Possessive pronoun
+Word: just == Description: Possessive pronoun
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: misunderstanding == Description: Modal
+DT VBZ RB RB DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Sit == Description: Noun, plural
+Word: down == Description: Possessive pronoun
+Word: and == Description: Coordinating conjunction
+Word: cross == Description: to
+Word: your == Description: Personal pronoun
+Word: legs == Description: Noun, singular or mass
+Word: please == Description: Modal
+NNP RB CC VB PRP$ NNS NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Is == Description: Verb, past participle
+Word: Okayama == Description: Noun, plural
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: city == Description: Modal
+VBZ NNP DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Look == Description: Modal
+Word: at == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+Word: right == Description: Possessive pronoun
+Word: now == Description: Possessive pronoun
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: about == Description: Preposition or subordinating conjunction
+Word: to == Description: Particle
+Word: fall == Description: to
+NN IN PRP RB RB PRP VBP IN TO VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: dog == Description: Modal
+WP DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Things == Description: Noun, singular or mass
+Word: are == Description: Verb, gerund or present participle
+Word: n't == Description: Possessive pronoun
+Word: always == Description: Possessive pronoun
+Word: easy == Description: Adjective
+NNS VBP RB RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: That == Description: Determiner
+Word: class == Description: Modal
+Word: was == Description: Interjection
+Word: so == Description: Possessive pronoun
+Word: hard == Description: Adjective
+DT NN VBD RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: shame == Description: Modal
+Word: that == Description: Preposition or subordinating conjunction
+Word: she == Description: Possessive ending
+Word: was == Description: Interjection
+Word: so == Description: Possessive pronoun
+Word: rude == Description: Adjective
+Word: to == Description: Particle
+Word: you == Description: Possessive ending
+Word: yesterday == Description: Modal
+WP DT NN IN PRP VBD RB JJ TO PRP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Shape == Description: Noun, plural
+Word: up == Description: Adverb, superlative
+Word: or == Description: Coordinating conjunction
+Word: ship == Description: to
+Word: out == Description: Adverb, superlative
+NNP RP CC VB RP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: So == Description: Preposition or subordinating conjunction
+Word: what == Description: Verb, 3rd person singular present
+Word: 's == Description: Verb, past participle
+Word: the == Description: Determiner
+Word: big == Description: Adjective
+Word: hurry == Description: Modal
+Word: now == Description: Possessive pronoun
+IN WP VBZ DT JJ NN RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: you == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+WRB JJ PRP VBP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: continued == Description: Interjection
+Word: talking == Description: Verb, base form
+PRP VBD VBG 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: to
+Word: you == Description: Possessive ending
+Word: guys == Description: Noun, singular or mass
+Word: have == Description: Verb, gerund or present participle
+Word: any == Description: Determiner
+Word: big == Description: Adjective
+Word: plans == Description: Noun, singular or mass
+Word: tonight == Description: Verb, past tense
+VB PRP NNS VBP DT JJ NNS VBN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Would == Description: List item marker
+Word: you == Description: Possessive ending
+Word: like == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: drink == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: my == Description: Personal pronoun
+Word: smoothie == Description: Modal
+MD PRP IN DT NN IN PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Carl == Description: Noun, plural
+Word: won == Description: Interjection
+Word: the == Description: Determiner
+Word: spelling == Description: Modal
+Word: bee == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: got == Description: Interjection
+Word: a == Description: Determiner
+Word: trophy == Description: Modal
+NNP VBD DT NN NN CC VBD DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Hurry == Description: Noun, plural
+Word: up == Description: Adverb, superlative
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: not == Description: Possessive pronoun
+Word: getting == Description: Verb, base form
+Word: any == Description: Determiner
+NNP RP PRP VBP RB VBG DT 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Could == Description: List item marker
+Word: I == Description: Possessive ending
+Word: ask == Description: to
+Word: you == Description: Possessive ending
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: favor == Description: Modal
+MD PRP VB PRP DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Come == Description: to
+Word: on == Description: Preposition or subordinating conjunction
+Word: down == Description: Adverb, superlative
+VB IN RP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Leapin == Description: Noun, plural
+Word: ' == Description: Predeterminer
+Word: lizards == Description: Noun, singular or mass
+NNP POS NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: There == Description: Existential there
+Word: was == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: rock == Description: Modal
+Word: concert == Description: Modal
+Word: in == Description: Preposition or subordinating conjunction
+Word: 1970 == Description: Cardinal number
+EX VBD DT JJ NN NN IN CD 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: 're == Description: Verb, gerund or present participle
+Word: taking == Description: Verb, base form
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: risk == Description: Modal
+PRP VBP VBG DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Why == Description: Wh-pronoun
+Word: is == Description: Verb, past participle
+Word: it == Description: Possessive ending
+Word: such == Description: Proper noun, plural
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: deal == Description: Modal
+WRB VBZ PRP PDT DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: 's == Description: Verb, past participle
+Word: that == Description: Determiner
+Word: big == Description: Adjective
+Word: building == Description: Modal
+Word: ahead == Description: Possessive pronoun
+Word: of == Description: Preposition or subordinating conjunction
+Word: us == Description: Possessive ending
+WP VBZ DT JJ NN RB IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: does == Description: Verb, past participle
+Word: your == Description: Personal pronoun
+Word: room == Description: Modal
+Word: look == Description: Modal
+Word: like == Description: Preposition or subordinating conjunction
+WP VBZ PRP$ NN NN IN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: we == Description: Possessive ending
+Word: know == Description: to
+Word: each == Description: Determiner
+Word: other == Description: Adjective
+VBP PRP VB DT JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: This == Description: Determiner
+Word: was == Description: Interjection
+Word: your == Description: Personal pronoun
+Word: big == Description: Adjective
+Word: idea == Description: Modal
+Word: remember == Description: to
+DT VBD PRP$ JJ NN VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: supermarket == Description: Modal
+WP DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: is == Description: Verb, past participle
+Word: your == Description: Personal pronoun
+Word: birthday == Description: Modal
+WRB VBZ PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: a == Description: Determiner
+Word: chance == Description: Modal
+Word: is == Description: Verb, past participle
+Word: there == Description: Possessive pronoun
+Word: that == Description: Determiner
+Word: Tom == Description: Noun, plural
+Word: will == Description: List item marker
+Word: come == Description: to
+WRB JJ DT NN VBZ RB DT NNP MD VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: This == Description: Determiner
+Word: is == Description: Verb, past participle
+Word: the == Description: Determiner
+Word: biggest == Description: Adjective, comparative
+Word: apple == Description: Modal
+Word: I == Description: Possessive ending
+Word: 've == Description: Verb, gerund or present participle
+Word: ever == Description: Possessive pronoun
+Word: seen == Description: Verb, past tense
+DT VBZ DT JJS NN PRP VBP RB VBN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Tom == Description: Noun, plural
+Word: stood == Description: Interjection
+Word: alone == Description: Possessive pronoun
+Word: under == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: clock == Description: Modal
+Word: in == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: deserted == Description: Adjective
+Word: train == Description: Modal
+Word: station == Description: Modal
+NNP VBD RB IN DT JJ NN IN DT JJ NN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: be == Description: to
+Word: nervous == Description: Adjective
+NNP VB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Here == Description: Possessive pronoun
+Word: he == Description: Possessive ending
+Word: comes == Description: Verb, past participle
+Word: to == Description: Particle
+Word: save == Description: to
+Word: the == Description: Determiner
+Word: day == Description: Modal
+RB PRP VBZ TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Hold == Description: to
+Word: on == Description: Preposition or subordinating conjunction
+Word: I == Description: Possessive ending
+Word: need == Description: Verb, gerund or present participle
+Word: at == Description: Preposition or subordinating conjunction
+Word: least == Description: Adjective, comparative
+Word: a == Description: Determiner
+Word: few == Description: Adjective
+Word: minutes == Description: Noun, singular or mass
+VB IN PRP VBP IN JJS DT JJ NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Never == Description: Possessive pronoun
+Word: do == Description: Verb, gerund or present participle
+Word: that == Description: Determiner
+Word: again == Description: Possessive pronoun
+Word: or == Description: Coordinating conjunction
+Word: I == Description: Possessive ending
+Word: wo == Description: List item marker
+Word: n't == Description: Possessive pronoun
+Word: be == Description: to
+Word: your == Description: Personal pronoun
+Word: friend == Description: Modal
+RB VBP DT RB CC PRP MD RB VB PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: to
+Word: you == Description: Possessive ending
+Word: guys == Description: Noun, singular or mass
+Word: have == Description: Verb, gerund or present participle
+Word: any == Description: Determiner
+Word: big == Description: Adjective
+Word: plans == Description: Noun, singular or mass
+Word: tonight == Description: Verb, past tense
+VB PRP NNS VBP DT JJ NNS VBN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: uses == Description: Verb, past participle
+Word: the == Description: Determiner
+Word: snorkel == Description: Modal
+Word: to == Description: Particle
+Word: breath == Description: to
+Word: under == Description: Preposition or subordinating conjunction
+Word: water == Description: Modal
+PRP VBZ DT NN TO VB IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Al == Description: Noun, plural
+Word: went == Description: Interjection
+Word: to == Description: Particle
+Word: the == Description: Determiner
+Word: animal == Description: Adjective
+Word: shelter == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: got == Description: Interjection
+Word: four == Description: Cardinal number
+Word: cats == Description: Noun, singular or mass
+NNP VBD TO DT JJ NN CC VBD CD NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: are == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: opening == Description: Verb, base form
+Word: the == Description: Determiner
+Word: door == Description: Modal
+WRB VBP PRP VBG DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: do == Description: to
+Word: you == Description: Possessive ending
+Word: say == Description: to
+Word: that == Description: Preposition or subordinating conjunction
+Word: in == Description: Preposition or subordinating conjunction
+Word: English == Description: Noun, plural
+WRB VB PRP VB IN IN NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: pumpkin == Description: Modal
+WP DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Sit == Description: Noun, plural
+Word: down == Description: Possessive pronoun
+Word: and == Description: Coordinating conjunction
+Word: cross == Description: to
+Word: your == Description: Personal pronoun
+Word: legs == Description: Noun, singular or mass
+Word: please == Description: Modal
+NNP RB CC VB PRP$ NNS NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: like == Description: Preposition or subordinating conjunction
+Word: spaghetti == Description: Noun, singular or mass
+VBP PRP IN NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Where == Description: Wh-pronoun
+Word: do == Description: to
+Word: you == Description: Possessive ending
+Word: come == Description: to
+Word: from == Description: Preposition or subordinating conjunction
+WRB VB PRP VB IN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: need == Description: Verb, gerund or present participle
+Word: to == Description: Particle
+Word: use == Description: to
+Word: the == Description: Determiner
+Word: bathroom == Description: Modal
+PRP VBP TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: can == Description: List item marker
+Word: order == Description: Modal
+Word: it == Description: Possessive ending
+Word: spicy == Description: Interjection
+Word: or == Description: Coordinating conjunction
+Word: classic == Description: Adjective
+PRP MD NN PRP VBD CC JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Are == Description: Noun, plural
+Word: these == Description: Determiner
+Word: shoes == Description: Noun, singular or mass
+Word: too == Description: Possessive pronoun
+Word: big == Description: Adjective
+Word: for == Description: Preposition or subordinating conjunction
+Word: you == Description: Possessive ending
+NNP DT NNS RB JJ IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Would == Description: List item marker
+Word: you == Description: Possessive ending
+Word: like == Description: Preposition or subordinating conjunction
+Word: to == Description: Particle
+Word: have == Description: to
+Word: some == Description: Determiner
+Word: coffee == Description: Modal
+MD PRP IN TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: want == Description: Verb, gerund or present participle
+Word: to == Description: Particle
+Word: yell == Description: to
+Word: at == Description: Preposition or subordinating conjunction
+Word: him == Description: Possessive ending
+PRP VBP TO VB IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Will == Description: List item marker
+Word: you == Description: Possessive ending
+Word: open == Description: to
+Word: the == Description: Determiner
+Word: door == Description: Modal
+MD PRP VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: China == Description: Noun, plural
+Word: is == Description: Verb, past participle
+Word: much == Description: Possessive pronoun
+Word: than == Description: Preposition or subordinating conjunction
+Word: Japan == Description: Noun, plural
+NNP VBZ RB IN NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Leapin == Description: Noun, plural
+Word: ' == Description: Predeterminer
+Word: lizards == Description: Noun, singular or mass
+NNP POS NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: She == Description: Possessive ending
+Word: is == Description: Verb, past participle
+Word: very == Description: Possessive pronoun
+Word: responsible == Description: Adjective
+PRP VBZ RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: She == Description: Possessive ending
+Word: meant == Description: Interjection
+Word: the == Description: Determiner
+Word: world == Description: Modal
+Word: to == Description: Particle
+Word: me == Description: Possessive ending
+PRP VBD DT NN TO PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: have == Description: to
+Word: any == Description: Determiner
+Word: suggestions == Description: Noun, singular or mass
+Word: for == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+VBP PRP VB DT NNS IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Why == Description: Wh-pronoun
+Word: do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: need == Description: to
+Word: such == Description: Proper noun, plural
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: house == Description: Modal
+WRB VBP PRP VB PDT DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Can == Description: List item marker
+Word: I == Description: Possessive ending
+Word: help == Description: to
+Word: you == Description: Possessive ending
+MD PRP VB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: 's == Description: Verb, past participle
+Word: dead == Description: Adjective
+Word: Jim == Description: Noun, plural
+PRP VBZ JJ NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Very == Description: Possessive pronoun
+Word: good == Description: Adjective
+Word: job == Description: Modal
+Word: I == Description: Possessive ending
+Word: am == Description: Verb, gerund or present participle
+Word: so == Description: Possessive pronoun
+Word: proud == Description: Adjective
+Word: of == Description: Preposition or subordinating conjunction
+Word: you == Description: Possessive ending
+RB JJ NN PRP VBP RB JJ IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Once == Description: Possessive pronoun
+Word: you == Description: Possessive ending
+Word: master == Description: Verb, gerund or present participle
+Word: cooking == Description: Verb, base form
+Word: you’ll == Description: Adjective
+Word: start == Description: Modal
+Word: tweaking == Description: Verb, base form
+Word: popular == Description: Adjective
+Word: recipes == Description: Noun, singular or mass
+Word: and == Description: Coordinating conjunction
+Word: that’s == Description: Modal
+Word: when == Description: Wh-pronoun
+Word: it == Description: Possessive ending
+Word: becomes == Description: Verb, past participle
+Word: even == Description: Possessive pronoun
+Word: more == Description: Adverb
+Word: fun == Description: Modal
+RB PRP VBP VBG JJ NN VBG JJ NNS CC NN WRB PRP VBZ RB RBR NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: a == Description: Determiner
+Word: problem == Description: Modal
+Word: is == Description: Verb, past participle
+Word: it == Description: Possessive ending
+WRB JJ DT NN VBZ PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Would == Description: List item marker
+Word: you == Description: Possessive ending
+Word: like == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: nice == Description: Adjective
+Word: big == Description: Adjective
+Word: piece == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: apple == Description: Modal
+Word: pie == Description: Modal
+MD PRP IN DT JJ JJ NN IN NN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: is == Description: Verb, past participle
+Word: your == Description: Personal pronoun
+Word: birthday == Description: Modal
+WRB VBZ PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Are == Description: Noun, plural
+Word: you == Description: Possessive ending
+Word: all == Description: Determiner
+Word: right == Description: Possessive pronoun
+NNP PRP DT RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Tom == Description: Noun, plural
+Word: made == Description: Interjection
+Word: a == Description: Determiner
+Word: very == Description: Possessive pronoun
+Word: big == Description: Adjective
+Word: mistake == Description: Modal
+Word: did == Description: Interjection
+Word: n't == Description: Possessive pronoun
+Word: he == Description: Possessive ending
+NNP VBD DT RB JJ NN VBD RB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: worry == Description: Verb, gerund or present participle
+Word: about == Description: Preposition or subordinating conjunction
+Word: it == Description: Possessive ending
+NNP VBP IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Is == Description: Verb, past participle
+Word: this == Description: Determiner
+Word: a == Description: Determiner
+Word: book == Description: Modal
+VBZ DT DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: One == Description: Cardinal number
+Word: time == Description: Modal
+Word: as == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: joke == Description: Modal
+Word: I == Description: Possessive ending
+Word: tried == Description: Interjection
+Word: to == Description: Particle
+Word: live == Description: to
+Word: a == Description: Determiner
+Word: meaningful == Description: Adjective
+Word: authentic == Description: Adjective
+Word: existence == Description: Modal
+Word: where == Description: Wh-pronoun
+Word: I == Description: Possessive ending
+Word: pursued == Description: Interjection
+Word: my == Description: Personal pronoun
+Word: real == Description: Adjective
+Word: passions == Description: Noun, singular or mass
+Word: in == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: genuine == Description: Adjective
+Word: expression == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: my == Description: Personal pronoun
+Word: freedom == Description: Modal
+CD NN IN DT NN PRP VBD TO VB DT JJ JJ NN WRB PRP VBD PRP$ JJ NNS IN DT JJ NN IN PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: beautiful == Description: Adjective
+Word: she == Description: Possessive ending
+Word: is == Description: Verb, past participle
+WRB JJ PRP VBZ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: We == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+Word: problems == Description: Noun, singular or mass
+PRP VBP NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: The == Description: Determiner
+Word: school == Description: Modal
+Word: principal == Description: Modal
+Word: was == Description: Interjection
+Word: so == Description: Possessive pronoun
+Word: mean == Description: Adjective
+Word: that == Description: Preposition or subordinating conjunction
+Word: all == Description: Proper noun, plural
+Word: the == Description: Determiner
+Word: children == Description: Noun, singular or mass
+Word: were == Description: Interjection
+Word: scared == Description: Verb, past tense
+Word: of == Description: Preposition or subordinating conjunction
+Word: him == Description: Possessive ending
+DT NN NN VBD RB JJ IN PDT DT NNS VBD VBN IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: How == Description: Wh-pronoun
+Word: big == Description: Adjective
+Word: of == Description: Preposition or subordinating conjunction
+Word: a == Description: Determiner
+Word: family == Description: Modal
+Word: do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: want == Description: to
+WRB JJ IN DT NN VBP PRP VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: the == Description: Determiner
+Word: Weakest == Description: Noun, plural
+Word: Link == Description: Noun, plural
+Word: Goodbye == Description: Modal
+PRP VBP DT NNP NNP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: n't == Description: Possessive pronoun
+Word: go == Description: to
+Word: there == Description: Possessive pronoun
+VBP RB VB RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Was == Description: Noun, plural
+Word: John == Description: Noun, plural
+Word: sick == Description: Modal
+NNP NNP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Why == Description: Wh-pronoun
+Word: is == Description: Verb, past participle
+Word: it == Description: Possessive ending
+Word: such == Description: Proper noun, plural
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: secret == Description: Modal
+WRB VBZ PRP PDT DT JJ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: are == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: doing == Description: Verb, base form
+WP VBP PRP VBG 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: We == Description: Possessive ending
+Word: two == Description: Cardinal number
+Word: finished == Description: Interjection
+Word: a == Description: Determiner
+Word: bottle == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: wine == Description: Modal
+PRP CD VBD DT NN IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Look == Description: Modal
+Word: at == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+Word: right == Description: Possessive pronoun
+Word: now == Description: Possessive pronoun
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: about == Description: Preposition or subordinating conjunction
+Word: to == Description: Particle
+Word: fall == Description: to
+NN IN PRP RB RB PRP VBP IN TO VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: That == Description: Determiner
+Word: was == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: surprise == Description: Modal
+Word: was == Description: Interjection
+Word: n't == Description: Possessive pronoun
+Word: it == Description: Possessive ending
+DT VBD DT JJ NN VBD RB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Remember == Description: Noun, plural
+Word: what == Description: Verb, 3rd person singular present
+Word: I == Description: Possessive ending
+Word: told == Description: Interjection
+Word: you == Description: Possessive ending
+Word: yesterday == Description: Modal
+NNP WP PRP VBD PRP NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: get == Description: to
+Word: too == Description: Possessive pronoun
+Word: excited == Description: Adjective
+NNP VB RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: have == Description: Verb, gerund or present participle
+Word: an == Description: Determiner
+Word: ever == Description: Possessive pronoun
+Word: growing == Description: Verb, base form
+Word: list == Description: Modal
+Word: of == Description: Preposition or subordinating conjunction
+Word: to-do == Description: Adjective
+Word: items == Description: Noun, singular or mass
+PRP VBP DT RB VBG NN IN JJ NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Is == Description: Verb, past participle
+Word: it == Description: Possessive ending
+Word: really == Description: Possessive pronoun
+Word: that == Description: Preposition or subordinating conjunction
+Word: big == Description: Adjective
+Word: a == Description: Determiner
+Word: deal == Description: Modal
+VBZ PRP RB IN JJ DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: My == Description: Personal pronoun
+Word: house == Description: Modal
+Word: is == Description: Verb, past participle
+Word: really == Description: Possessive pronoun
+Word: big == Description: Adjective
+PRP$ NN VBZ RB JJ 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: two == Description: Cardinal number
+Word: had == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: fight == Description: Modal
+Word: last == Description: Adjective
+Word: night == Description: Modal
+Word: did == Description: Interjection
+Word: n't == Description: Possessive pronoun
+Word: you == Description: Possessive ending
+PRP CD VBD DT JJ NN JJ NN VBD RB PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Is == Description: Verb, past participle
+Word: the == Description: Determiner
+Word: door == Description: Modal
+Word: opened == Description: Interjection
+VBZ DT NN VBD 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: May == Description: Noun, plural
+Word: I == Description: Possessive ending
+Word: take == Description: Verb, gerund or present participle
+Word: this == Description: Determiner
+Word: chair == Description: Modal
+NNP PRP VBP DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: When == Description: Wh-pronoun
+Word: are == Description: Verb, gerund or present participle
+Word: we == Description: Possessive ending
+Word: going == Description: Verb, base form
+Word: to == Description: Particle
+Word: start == Description: to
+Word: the == Description: Determiner
+Word: grill == Description: Modal
+WRB VBP PRP VBG TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: We == Description: Possessive ending
+Word: are == Description: Verb, gerund or present participle
+Word: than == Description: Preposition or subordinating conjunction
+Word: just == Description: Possessive pronoun
+Word: your == Description: Personal pronoun
+Word: shopping == Description: Verb, base form
+Word: cart == Description: Modal
+PRP VBP IN RB PRP$ VBG NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Is == Description: Verb, past participle
+Word: this == Description: Determiner
+Word: big == Description: Adjective
+Word: enough == Description: Possessive pronoun
+Word: for == Description: Preposition or subordinating conjunction
+Word: you == Description: Possessive ending
+VBZ DT JJ RB IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I’ll == Description: Noun, plural
+Word: do == Description: Verb, gerund or present participle
+Word: it == Description: Possessive ending
+Word: right == Description: to
+Word: away == Description: Possessive pronoun
+NNP VBP PRP VB RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: He == Description: Possessive ending
+Word: threw == Description: Interjection
+Word: up == Description: Adverb, superlative
+Word: all == Description: Determiner
+Word: over == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+PRP VBD RP DT IN PRP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: The == Description: Determiner
+Word: train == Description: Modal
+Word: leaves == Description: Verb, past participle
+Word: in == Description: Preposition or subordinating conjunction
+Word: ten == Description: Adjective
+Word: minutes == Description: Noun, singular or mass
+DT NN VBZ IN JJ NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Are == Description: Noun, plural
+Word: you == Description: Possessive ending
+Word: all == Description: Determiner
+Word: right == Description: Possessive pronoun
+NNP PRP DT RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Keep == Description: to
+Word: it == Description: Possessive ending
+Word: up == Description: Adverb, superlative
+Word: Let == Description: to
+Word: me == Description: Possessive ending
+Word: see == Description: to
+VB PRP RP VB PRP VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Put == Description: to
+Word: it == Description: Possessive ending
+Word: on == Description: Preposition or subordinating conjunction
+Word: my == Description: Personal pronoun
+Word: tab == Description: Modal
+VB PRP IN PRP$ NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: saw == Description: Interjection
+Word: my == Description: Personal pronoun
+Word: name == Description: Modal
+Word: on == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: list == Description: Modal
+PRP VBD PRP$ NN IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Keep == Description: to
+Word: your == Description: Personal pronoun
+Word: temper == Description: Modal
+Word: under == Description: Preposition or subordinating conjunction
+Word: control == Description: Modal
+VB PRP$ NN IN NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Animal == Description: Adjective
+Word: print == Description: Modal
+Word: adds == Description: Verb, past participle
+Word: a == Description: Determiner
+Word: nice == Description: Adjective
+Word: touch == Description: Modal
+Word: to == Description: Particle
+Word: plain == Description: to
+Word: outfits == Description: Noun, singular or mass
+JJ NN VBZ DT JJ NN TO VB NNS 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: do == Description: Verb, gerund or present participle
+Word: n't == Description: Possessive pronoun
+Word: like == Description: to
+Word: rain == Description: Modal
+PRP VBP RB VB NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: I == Description: Possessive ending
+Word: want == Description: Verb, gerund or present participle
+Word: to == Description: Particle
+Word: take == Description: to
+Word: a == Description: Determiner
+Word: nap == Description: Modal
+PRP VBP TO VB DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: ca == Description: List item marker
+Word: n't == Description: Possessive pronoun
+Word: have == Description: to
+Word: your == Description: Personal pronoun
+Word: cake == Description: Modal
+Word: and == Description: Coordinating conjunction
+Word: eat == Description: to
+Word: it == Description: Possessive ending
+Word: too == Description: Possessive pronoun
+PRP MD RB VB PRP$ NN CC VB PRP RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Don’t == Description: Noun, plural
+Word: be == Description: to
+Word: silly == Description: Possessive pronoun
+Word: you == Description: Possessive ending
+Word: 're == Description: Verb, gerund or present participle
+Word: going == Description: Verb, base form
+Word: to == Description: Particle
+Word: the == Description: Determiner
+Word: game == Description: Modal
+NNP VB RB PRP VBP VBG TO DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: What == Description: Verb, 3rd person singular present
+Word: do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: do == Description: to
+Word: for == Description: Preposition or subordinating conjunction
+Word: Thanksgiving == Description: Noun, plural
+WP VBP PRP VB IN NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: You == Description: Possessive ending
+Word: can == Description: List item marker
+Word: start == Description: to
+Word: from == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: basic == Description: Adjective
+Word: stitches == Description: Noun, singular or mass
+Word: and == Description: Coordinating conjunction
+Word: go == Description: Verb, gerund or present participle
+Word: from == Description: Preposition or subordinating conjunction
+Word: there == Description: Possessive pronoun
+PRP MD VB IN DT JJ NNS CC VBP IN RB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Do == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: think == Description: to
+Word: you == Description: Possessive ending
+Word: 're == Description: Verb, gerund or present participle
+Word: than == Description: Preposition or subordinating conjunction
+Word: Tom == Description: Noun, plural
+VBP PRP VB PRP VBP IN NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Look == Description: Modal
+Word: at == Description: Preposition or subordinating conjunction
+Word: me == Description: Possessive ending
+Word: right == Description: Possessive pronoun
+Word: now == Description: Possessive pronoun
+Word: I == Description: Possessive ending
+Word: 'm == Description: Verb, gerund or present participle
+Word: about == Description: Preposition or subordinating conjunction
+Word: to == Description: Particle
+Word: fall == Description: to
+NN IN PRP RB RB PRP VBP IN TO VB 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Does == Description: Verb, past participle
+Word: she == Description: Possessive ending
+Word: live == Description: to
+Word: in == Description: Preposition or subordinating conjunction
+Word: Paris == Description: Noun, plural
+VBZ PRP VB IN NNP 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------
+Word: Did == Description: Noun, plural
+Word: I == Description: Possessive ending
+Word: tell == Description: Verb, gerund or present participle
+Word: you == Description: Possessive ending
+Word: I == Description: Possessive ending
+Word: saw == Description: Interjection
+Word: a == Description: Determiner
+Word: big == Description: Adjective
+Word: rat == Description: Modal
+Word: in == Description: Preposition or subordinating conjunction
+Word: the == Description: Determiner
+Word: kitchen == Description: Modal
+NNP PRP VBP PRP PRP VBD DT JJ NN IN DT NN 
+--------------------------------------------------STARTING NEW SENTANCE--------------------------------------------------

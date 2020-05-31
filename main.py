@@ -2,14 +2,18 @@
 
 
 # Keras and TF Imports
-from tensorflow import keras
-import tensorflow as tf
+#from tensorflow import keras
+#import tensorflow as tf
 import numpy as np
 
 # NLTK Imports
 import nltk
 from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
+
+print("-"*50)
+print("RAAV Natural Conversation Generation")
+print("-"*50)
 
 print("NLTK Version: {}".format(nltk.__version__))
 
@@ -87,23 +91,37 @@ descriptions = [
     "Possessive wh-pronoun",
     "Wh-adverb"
 ]
-text = "Hello, my name is Ryan. I am able to run for three hours."
 
-solved = pos_tag(word_tokenize(text))
+f = open("results.txt", "w")
+f.write("")
+f = open("results.txt", "a")
 
-wordTag = []
+textFile = "training_data.txt"
+with open(textFile, "r") as text:
+    line = text.readlines()
 
-for tag in solved:
-    if tag[1] in tags:
-        wordTag.append(tag[1])
-        # This is checking the index of the tags so that it can be replaced and more descriptive
-        indexPlace = tags.index(tag[1])
-        print("Word: {} || Description: {}".format(
-            tag[0], descriptions[indexPlace]))
-wordCipher = ""
-for wordtag in wordTag:
-    wordCipher = wordCipher + wordtag + " "
-print(wordCipher)
+
+for text in line:
+    solved = pos_tag(word_tokenize(text))
+
+    wordTag = []
+
+    for tag in solved:
+        if tag[1] in tags:
+            wordTag.append(tag[1])
+            # This is checking the index of the tags so that it can be replaced and more descriptive
+            indexPlace = tags.index(tag[1])
+            f.write("Word: {} == Description: {}\n".format(
+                tag[0], descriptions[indexPlace]))
+    wordCipher = ""
+    for wordtag in wordTag:
+        wordCipher = wordCipher + wordtag + " "
+    f.write(wordCipher + "\n")
+    f.write("-"*50)
+    f.write("STARTING NEW SENTANCE")
+    f.write("-"*50)
+    f.write("\n")
+f.close()
 
 # The word cipher is the cipher that we will use to train the AI.
 
