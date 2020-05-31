@@ -19,6 +19,25 @@ What are you doing today?
 ```
 It would be conjoined together
 
+For example:
+
+The sentance `Keep it up. Let me see`
+
+You be organized like:
+```
+Word: Keep == Description: to
+Word: it == Description: Possessive ending
+Word: up == Description: Adverb, superlative
+Word: Let == Description: to
+Word: me == Description: Possessive ending
+Word: see == Description: to
+```
+
+The wordCipher order would be: `VB PRP RP VB PRP VB`
+
+
+This is so that we train the AI to learn from the wordCipher rather than just from the plaintext words.
+
 The nerual network will work in a way sort of like this:
 
 1. It will read the first line, it will make correlations from the first line to the second line.
